@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-26.4-arm64-arm-64bit",
+  "python":  "CPython 3.11.13",
+  "startedAt":  "2026-05-11T16:28:35.316237Z",
+  "program":  "/Users/afaf.el-wafi/Projects/perso/hackai/temp/hackai-2026/notebooks/02_reasoning_grpo.ipynb",
+  "codePath":  "/Users/afaf.el-wafi/Projects/perso/hackai/temp/hackai-2026/notebooks/02_reasoning_grpo.ipynb",
+  "codePathLocal":  "02_reasoning_grpo.ipynb",
+  "git":  {
+    "remote":  "git@github.com:afafelwafi/hackai-2026.git",
+    "commit":  "91d249435c4069e039e7b90e514d31c196671082"
+  },
+  "email":  "elwafiafaf@gmail.com",
+  "root":  "/Users/afaf.el-wafi/Projects/perso/hackai/temp/hackai-2026/notebooks",
+  "host":  "FRATF-MKPHCW935J-M",
+  "executable":  "/Users/afaf.el-wafi/Envs/env/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "221053988864"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  16,
+    "swapTotalBytes":  "22548578304",
+    "ramTotalBytes":  "17179869184",
+    "macModel":  "Mac16,12"
+  },
+  "writerId":  "t5q4jn7ck8ey7gay2166tegp39b2j3gp"
+}
