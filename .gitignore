@@ -3,3 +3,6 @@ eval/
 eval_results/
 tasks/
 wandb/
+*.db
+claude_desktop_config.json
+whatsapp.log
