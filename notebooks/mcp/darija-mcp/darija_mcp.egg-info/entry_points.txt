@@ -1,0 +1,2 @@
+[console_scripts]
+darija-mcp = darija_mcp.server:main

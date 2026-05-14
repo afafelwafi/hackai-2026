@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: darija-mcp
+Version: 0.1.3
+Summary: MCP server with Darija/Arabic NLP tools
+Author-email: afaf <elwafiafaf@gmail.com>
+Requires-Python: >=3.10
+Requires-Dist: fastmcp>=0.4
+Requires-Dist: mcp>=1.2

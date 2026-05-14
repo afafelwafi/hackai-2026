@@ -1,0 +1,9 @@
+README.md
+darija_server.py
+pyproject.toml
+darija_mcp.egg-info/PKG-INFO
+darija_mcp.egg-info/SOURCES.txt
+darija_mcp.egg-info/dependency_links.txt
+darija_mcp.egg-info/entry_points.txt
+darija_mcp.egg-info/requires.txt
+darija_mcp.egg-info/top_level.txt
